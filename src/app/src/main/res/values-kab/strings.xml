@@ -1,5 +1,5 @@
 <resources>
-    <string name="original_string">Azrir aɣbalu :</string>
+    <string name="original_string">Azrir aγbalu :</string>
     <string name="translated_string_colon">Azrir n tsuqilt :</string>
     <string name="next">Ar zdat</string>
     <string name="current_string_id">ID n uzrir amiran :</string>
@@ -172,7 +172,7 @@
     <string name="wait_until_sync">Tanemmirt ma terǧiḍ akud ilaqen ar d yemtawi ukufi.</string>
     <string name="invalid_project">Urti n ukufi %s yettban mačči d ameɣtu.</string>
     <string name="project_no_strings">Urti n ukufi yettban mačči d ameɣtu.</string>
-    <string name="settings">Iɣewwaṛen</string>
+    <string name="settings">Iγewwaṛen</string>
     <string name="pref_desc__language">Beddel isem n tutlayt n ugrudem. Yessefk ad talseḍ tanekra n usnas akken teddu tutlayt tamaynut</string>
     <string name="pref_title__language">Tutlayt</string>
     <string name="appearance">Udem</string>
